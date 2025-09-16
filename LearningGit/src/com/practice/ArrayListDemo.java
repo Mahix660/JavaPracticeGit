@@ -13,6 +13,10 @@ public class ArrayListDemo {
 		
 		System.out.println(al);
 		
+		for(String s:al) {
+			
+			System.out.println(s);
+		}
 		
 		
 	}
