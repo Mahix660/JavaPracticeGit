@@ -15,6 +15,7 @@ public class Test {
 		System.out.println("Multpilication of a & b is>>"+c);
 		
 		
+		
 	}
 
 }
