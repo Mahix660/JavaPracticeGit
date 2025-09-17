@@ -23,6 +23,8 @@ public class ArrayListDemo {
 	   while(itr.hasNext()) {
 		   System.out.println(itr.next());
 	   }
+	   
+	   System.out.println("ArrayList info ");
 		
 	}
 
