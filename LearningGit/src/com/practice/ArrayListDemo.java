@@ -1,6 +1,7 @@
 package com.practice;
 
 import java.util.ArrayList;
+import java.util.Iterator;
 
 public class ArrayListDemo {
 	
@@ -18,6 +19,10 @@ public class ArrayListDemo {
 			System.out.println(s);
 		}
 		
+	   Iterator<String> itr =al.iterator();
+	   while(itr.hasNext()) {
+		   System.out.println(itr.next());
+	   }
 		
 	}
 
