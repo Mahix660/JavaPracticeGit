@@ -12,7 +12,9 @@ public class Test {
 		int a= sc.nextInt();
 		int b = sc.nextInt();
 		int c= a*b;
+		int d = a+b;
 		System.out.println("Multpilication of a & b is>>"+c);
+		System.out.println("Addition of a & b is >>"+d);
 		
 		
 		
